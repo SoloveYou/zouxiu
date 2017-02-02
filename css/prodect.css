@@ -1,0 +1,80 @@
+.class:after{content:"."; clear: both; display:block; height: 0; overflow: hidden; visibility:hidden;}
+
+.spei_tit {width: 1000px;height: 33px;margin: 20px auto;line-height: 33px;color: #333; background: #e0e0e0;  }
+.spei_tit strong{float: left; font-size: 14px;}
+.spei_tit a {float: right; color:#c0c0c0; font-size: 14px;}
+
+/*右边固定侧边*/
+.rightfix{width: 67px; height: 258px; border: 1px solid #c0c0c0; position: fixed; top:300px; right: 20px; font-size: 12px;}
+.rightfix span{display: block; height: 32px; text-align: center; border-bottom: 1px solid #c0c0c0; line-height: 32px; color:red;}
+.rightfix span:hover{background-color: red; color:white;}
+.rightfix a{display: block; height: 57px; text-align: center;border-bottom: 1px solid #c0c0c0; line-height: 90px; color: black;}
+.rightfix a:hover{background-color: orange;}
+
+/*商品列表*/
+/*ul{list-style: none}
+a{text-decoration: none;}*/
+.gdlist{width: 1000px; height: auto; margin: 20px auto;}
+.gdlist01{width: 315px; height: 510px; border: 1px solid white; float: left; margin: 5px 8px;}
+.gdlist01:hover{border: 1px solid #adadad;}
+.gdlist01 dt{width: 315px; height: 420px; position: relative;}
+.gdlist01 dt a{display: block; width: 315px; height: 420px;}
+.gdlist01 dt .times{width: 313px; height: 23px; border: 1px solid #adadad; position: absolute; left:0; top:397px; text-align: center; line-height: 23px; font-size: 12px; color:red;}
+.gdlist01 dt .size{width: 315px; height: 45px; background-color: white; opacity: 0.5; position: absolute; left: 0; top:372px; display: none;}
+.gdlist01 dt .size ul{width: 100%;}
+.gdlist01 dt .size ul li{float: left; border: 1px solid #c0c0c0; width: 40px; height:auto; text-align: center; margin: 6px 10px;}
+.gdlist01 dt .size ul li:hover{border: 1px solid red;}
+.gdlist01 dd p{font-size: 14px; color: #c0c0c0; margin: 10px;}
+.gdlist01 dd a{font-size: 12px; color:black; margin: 10px; display: block;}
+.gdlist01 dd span{font-size: 14px; margin: 10px;}
+.gdlist01 dd span b{color:red; font-size: 16px;}
+
+/*更多活动*/
+.moreactive{width: 1000px; height: 90px;}
+.moreactive a{width: 1000px; height: 90px; margin-left: 130px; display: block;}
+#footer{margin-top: 0;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
